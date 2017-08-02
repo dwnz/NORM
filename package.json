@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dwnz/NORM/issues"
   },
-  "homepage": "https://github.com/dwnz/NORM#readme"
+  "homepage": "https://github.com/dwnz/NORM#readme",
+  "dependencies": {
+    "async": "^2.5.0"
+  }
 }
